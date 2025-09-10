@@ -5,7 +5,7 @@
 
 
 
-## 🥷About me
+## 🥷About me [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://kaicobra.github.io/)
 <img src="./asset/S__63397938.jpg" width="20%" align="right">
 
 Hi! My name is Jun-Kai — fully immersed in **AI Research** and **Computer Vision**.  
