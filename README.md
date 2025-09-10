@@ -1,5 +1,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img src="./asset/github-header-banner.svg" width="100%" herf="https://www.youtube.com/shorts/nXin3E75rCY">
+<a href="https://www.youtube.com/shorts/nXin3E75rCY">
+  <img src="./asset/github-header-banner.svg" width="100%" alt="Header Banner">
+</a>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🥷About me
