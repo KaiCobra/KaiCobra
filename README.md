@@ -12,7 +12,8 @@ Hi! My name is Jun-Kai — fully immersed in **AI Research** and **Computer Visi
 
 > Coding in neon, dreaming in 3D.
 
-
+- Education: M.S. in Electrical Engineering, National Taiwan University of Science and Technology (NTUST)
+- Research Interests: Computer Vision, Machine Learning, Deep Learning
 
 ### *Deep learning and Computer Vision*  
 
