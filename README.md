@@ -3,11 +3,12 @@
   <img src="./asset/github-header-banner.svg" width="100%" alt="Header Banner">
 </a>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🥷About me
 Hi! My name is Jun-Kai — fully immersed in **AI Research** and **Computer Vision**.  
 > Coding in neon, dreaming in 3D.
+
+<img src="./asset/S__63397938.jpg" width="100%" align="right">
 
 ### *Deep learning and Computer Vision*  
 
