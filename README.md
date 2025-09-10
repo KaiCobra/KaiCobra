@@ -1,16 +1,13 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="./asset/github-header-banner.svg" alt="Animated SVG" />
-<h1><b>Hi there, I'm </b><a href="https://github.com/KaiCobra">KaiCobra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br>
-
 ## 🥷About me
 Hi! My name is Jun-Kai.
 > Coding in neon, dreaming in 3D.
 
-### *AI Vision Ninja in the Future*  
+## *Deep learning and Computer Vision*  
 
 Hi! I’m Jun-Kai — fully immersed in **AI Research** and **Computer Vision**.  
-📄 Presented **Syn3DTxt** at **CVPR 2025 SyntaGen Workshop**  
+📄 Recently presented **Syn3DTxt** at **CVPR 2025 SyntaGen Workshop**  
 (📑 [arXiv: Syn3DTxt: Embedding 3D Cues for Scene Text Generation](https://arxiv.org/abs/2505.18479))
 
 **Hashtags:** `#Syn3DTxt` `#SceneTextGeneration` `#3DCues` `#CVPR2025Workshop` `#ComputerVision` `#SyntheticData`
