@@ -7,7 +7,9 @@
 
 ## 🥷About me
 <img src="./asset/S__63397938.jpg" width="20%" align="right">
+
 Hi! My name is Jun-Kai — fully immersed in **AI Research** and **Computer Vision**.  
+
 > Coding in neon, dreaming in 3D.
 
 
