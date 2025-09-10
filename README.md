@@ -1,4 +1,4 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <a href="https://www.youtube.com/shorts/nXin3E75rCY">
   <img src="./asset/github-header-banner.svg" width="100%" alt="Header Banner">
 </a>
