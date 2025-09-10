@@ -24,9 +24,8 @@ Hi! I’m Jun-Kai — fully immersed in **AI Research** and **Computer Vision**.
 
 ---
 
-**Daily Motto:**  
+**Daily Motto: **
 > Coding in neon, dreaming in 3D.
-##  Fun Section
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/HVCUxmPxTvAAAAAi/chiikawa-usagi.gif"/>
 
 ---
