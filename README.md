@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-[![animation]("https://raw.githubusercontent.com/KaiCobra/KaiCobra/asset/github-header-banner.svg")](https://www.youtube.com/shorts/nXin3E75rCY)
+<img src="./asset/github-header-banner.svg" width="100%" herf="https://www.youtube.com/shorts/nXin3E75rCY">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🥷About me
